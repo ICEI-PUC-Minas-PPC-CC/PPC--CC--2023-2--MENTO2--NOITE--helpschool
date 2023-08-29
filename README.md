@@ -10,7 +10,7 @@
 - Kauã Corrêa Barbosa
 - Kléberson Crystyan de lima
 - Vinicius Fernandes Betti
-- Victor Cesar Silvares Matos
+- Vitor Hugo Granato Moreira do Prado
 
 ## Professor
 - Luciana de Nardin
