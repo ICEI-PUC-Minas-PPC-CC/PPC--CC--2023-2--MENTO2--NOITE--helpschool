@@ -40,9 +40,7 @@ O objetivo principal deste projeto é desenvolver um aplicativo que auxilie educ
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+O desenvolvimento do aplicativo é motivado pela necessidade de oferecer uma abordagem personalizada à alfabetização e à leitura infantil. A adaptação das atividades de acordo com o nível de leitura de cada criança, aliada à base pedagógica da BNCC, contribuirá significativamente para uma educação mais eficaz e equitativa.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
