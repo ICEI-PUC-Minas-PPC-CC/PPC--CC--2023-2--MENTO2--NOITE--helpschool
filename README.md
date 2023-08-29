@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+# Planejador de etapas BNCC
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: MENTORING 2`
+`2023 - 2º Semestre`
 
 ## Integrantes
-
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriel Henrique Custodio
+- Jules Eloisio Moraes Lima
+- Kauã Corrêa Barbosa
+- Kléberson Crystyan de lima
+- Vinicius Fernandes Betti
+- Victor Cesar Silvares Matos
 
 ## Professor
-
-- Mestre Yoda
+- Luciana de Nardin
 
 # Documentação
 
