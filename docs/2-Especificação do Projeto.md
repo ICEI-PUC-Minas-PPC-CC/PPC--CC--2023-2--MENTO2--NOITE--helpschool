@@ -6,14 +6,12 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
 
-|**Camila Fiães**|           |                             | 
+|**Márcia dos Santos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 47 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora P1.       |**Atribuições:** Alfabetizar crianças de 6 à 8 anos, utilizando métodos criativos e didáticos. 
+|**Motivações:** Deseja ter um maior controle do desempenho dos seus alunos, para que ela julgue se necessário mudar as estratégias de aprendizado e o aluno possa aproveitar melhor as aulas.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de dar aulas, quando chega em casa tem de desempenhar os papeis de mãe, terminar seu TCC em pedagogia e ainda ter tempo de cuidar da casa. O seu filho mais novo de 16 anos sofre com problemas de ansiedade, portanto necessita de tratamento contínuo e atenção redobrada, apesar do mesmo ajudar nas tarefas de casa.   |**Hobbies, história:** Busca conciliar melhor o seu tempo sem que sua vida pessoal e profissional seja afetada, através da faculdade, Márcia procura melhorar a sua renda para proporcionar uma vida melhor para sua família. Com tantas responsabilidades sobra pouco tempo para hobbies como ler, se exercitar, assistir séries ou até mesmo sair para ir ao shopping. Durante os finais de semana ela regula seu tempo para dar atenção ao seu filho, corrigir as atividades de seus alunos (sempre analisando os padrões de leitura e desmpenho nas tarefas simples dos mesmos), colocar em dia trabalhos da faculdade e obviamente descansar.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
