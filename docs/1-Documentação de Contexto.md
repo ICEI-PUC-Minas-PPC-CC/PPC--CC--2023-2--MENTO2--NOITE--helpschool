@@ -57,3 +57,25 @@ Ao oferecer um aplicativo que avalia e adapta as atividades de leitura de acordo
 > - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
 > - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 > - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+>
+> - ## Cronograma de pesquisas
+>
+> - 1. Marcar reunião para discussão de entendimento de problemas a serem solucionados.
+1.1 Tópicos
+- Quais as maiores necessidades ( prioridades) em geral tanto adm, ou gerais!?
+
+- Quanto tempo demoram para resolver tais questões?
+
+- Porque cada pessoa tem uma visão do problema datado, ( problema da escola ou da pessoa em si)!?
+
+- Qual seria suas expectativas( se seria algo útil)!?
+
+- Como se sente com a situação de agora?
+
+2. Escolher o melhor método para solucionar o problema.
+
+3. Estudar sobre o tema escolhido, e entender a melhor maneira de execução para solução.
+
+4. Montagem de conteúdos sobre o tema escolhido.
+
+5.  Montagem de treinamento sobre o tema/ desenvolvimento de ferramentas.
