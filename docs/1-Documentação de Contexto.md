@@ -51,7 +51,7 @@ O público-alvo do aplicativo são educadores, pais e responsáveis, bem como es
 
 Ao oferecer um aplicativo que avalia e adapta as atividades de leitura de acordo com o nível individual de cada criança, o projeto tem o potencial de transformar a forma como a alfabetização é abordada, tornando-a mais inclusiva, eficaz e alinhada aos padrões educacionais estabelecidos pela BNCC.
 
-##Cronogramas de pesquisas
+# Cronogramas de pesquisas
 1. Marcar reunião para discussão de entendimento de problemas a serem solucionados.
 1.1 Tópicos
 - Quais as maiores necessidades ( prioridades) em geral tanto adm, ou gerais!?
