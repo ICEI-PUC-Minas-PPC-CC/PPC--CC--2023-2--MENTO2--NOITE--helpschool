@@ -1,45 +1,47 @@
 # Detalhamento preliminar
 
-## Esta seção deverá ser adaptada a proposta do grupo, de forma que:
-## a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
-## b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
-## c) Caso seu grupo tenha realizado alguma pesquisa de campo, entrevistas ou reuniões com representantes do público-alvo, os registros das entrevistas/reuniões, os resultados obtidos e as conclusões encontradas deverão ser descritas aqui.
-## Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a serem entregues nesta etapa deverão ser alinhados junto com seu(sua) professor(a)
+## Buscar ferramentas para desenvolvimento de atividades para alunos do ensino fundamental I , onde os mesmos tenham conteúdo para estudos e consequentemente sua aprendizagem otimizada 
+ Ferramentas propostas;
+"kahoot" (aberto a alterações de novas ferramentas);
+"ChatGPT" (Criação de novas ideias);
+"Mentimeter"(Criação de conteúdos, formas de interação com os alunos para aprendizagem);
+"Duolingo"(Ensinamentos de novas línguas para os alunos);
 
-## Projeto de Interface
+Estudar as ferramentas propostas e, posteriormente selecionar as melhores maneiras de se ministrar um "curso" para os professores e coordenadores, sobre como utiliza-las nas escolas, para aprendizagem, tanto dos professores quanto dos alunos.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+BNCC - Para organização e seleção de conteúdos, para as turmas desejadas temos em sugestão o (Trello) que servira para organização de materiais específicos para os professores. Poderá servir como um acompanhamento do que já foi feito e do que ainda será apresentado aos alunos.
+"Google Agenda"
+"Trello"
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Duas interessantes ferramentas datadas para organização de aulas e matérias a serem dadas pelo professor.
 
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+# Cronograma preliminar
 
-## User Flow
+## Cronograma preliminar das atividades a serem realizadas:
+Semana 1-2: Pesquisa e seleção das ferramentas de ensino (Kahoot, ChatGPT, Mentimeter, Duolingo) e definição de como elas serão usadas.
 
-![Exemplo de UserFlow](img/userflow.jpg)
+Semana 3-4: Desenvolvimento de conteúdo para os cursos/oficinas usando as ferramentas selecionadas.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Semana 5-6: Preparação de material de suporte, como apresentações, guias de instrução e recursos.
 
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+Semana 7-8: Realização de workshops piloto com professores e coordenadores para treiná-los no uso das ferramentas.
 
-## Cronograma preliminar
+Semana 9-10: Revisão do feedback dos workshops piloto e ajuste do conteúdo e do treinamento conforme necessário.
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
+Semana 11-12: Planejamento e organização dos cursos/oficinas a serem oferecidos na (PUC uma ideia) nas escolas.
 
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
-|------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
+Lembre-se de que este é apenas um cronograma preliminar e pode ser ajustado à medida que o projeto avança.
 
 
+
+# Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
+
+## Sobre a reunião realizada no dia 10/09/2023: 
+Entrevistas: Entrevistamos a professora Rosângela de Souza da Escola Municipal José Raphael dos Santos Netto para obter informações sobre problemas em que eles enfrentam, e ideias de soluções usando a tecnologia a favor das escolas.
+
+Resultados: Com base em nossa pesquisa na reunião e com base na entrevistada, identificamos a necessidade de fornecer treinamento aos educadores para melhorar sua capacidade de usar ferramentas educacionais digitais, e ferramentas que possam ajudar aos professores e alunos a educação.
+
+Conclusões: Concluímos que o uso eficaz de ferramentas como Kahoot, ChatGPT, Mentimeter e Duolingo pode melhorar significativamente a experiência de ensino e aprendizado, desde que os educadores recebam o treinamento adequado (ferramentas propostas ainda em estudos e possíveis adições de novas ferramentas.
 
 
 
