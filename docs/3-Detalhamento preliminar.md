@@ -1,47 +1,38 @@
-# Detalhamento preliminar
+# Detalhamento Preliminar
 
-## Buscar ferramentas para desenvolvimento de atividades para alunos do ensino fundamental I , onde os mesmos tenham conteúdo para estudos e consequentemente sua aprendizagem otimizada 
- Ferramentas propostas;
-"kahoot" (aberto a alterações de novas ferramentas);
-"ChatGPT" (Criação de novas ideias);
-"Mentimeter"(Criação de conteúdos, formas de interação com os alunos para aprendizagem);
-"Duolingo"(Ensinamentos de novas línguas para os alunos);
+## Ferramentas
 
-Estudar as ferramentas propostas e, posteriormente selecionar as melhores maneiras de se ministrar um "curso" para os professores e coordenadores, sobre como utiliza-las nas escolas, para aprendizagem, tanto dos professores quanto dos alunos.
+Ferramentas para desenvolvimento de atividades para alunos do ensino fundamental I.
 
-BNCC - Para organização e seleção de conteúdos, para as turmas desejadas temos em sugestão o (Trello) que servira para organização de materiais específicos para os professores. Poderá servir como um acompanhamento do que já foi feito e do que ainda será apresentado aos alunos.
-"Google Agenda"
-"Trello"
+- "Kahoot" (Criação de aulas dinâmicas através de quizes);
+- "Mentimeter" (Criação de aulas dinâmicas através de quizes);
+- "ChatGPT" (Criação de novas ideias e conteúdos para facilitar na didática);
+- "Duolingo" (Ensinamentos de novos idiomas para os alunos);
 
-Duas interessantes ferramentas datadas para organização de aulas e matérias a serem dadas pelo professor.
+Estudar as ferramentas propostas e, posteriormente selecionar as melhores maneiras de se ministrar um curso para os professores, sobre como utiliza-las nas escolas para melhorar e dinamizar o ensino. 
 
 # Cronograma preliminar
 
-## Cronograma preliminar das atividades a serem realizadas:
-Semana 1-2: Pesquisa e seleção das ferramentas de ensino (Kahoot, ChatGPT, Mentimeter, Duolingo) e definição de como elas serão usadas.
-
-Semana 3-4: Desenvolvimento de conteúdo para os cursos/oficinas usando as ferramentas selecionadas.
-
-Semana 5-6: Preparação de material de suporte, como apresentações, guias de instrução e recursos.
-
-Semana 7-8: Realização de workshops piloto com professores e coordenadores para treiná-los no uso das ferramentas.
-
-Semana 9-10: Revisão do feedback dos workshops piloto e ajuste do conteúdo e do treinamento conforme necessário.
-
-Semana 11-12: Planejamento e organização dos cursos/oficinas a serem oferecidos na (PUC uma ideia) nas escolas.
-
-Lembre-se de que este é apenas um cronograma preliminar e pode ser ajustado à medida que o projeto avança.
+| **Atividades desenvolvidas** |
+| :----------------------- |
+| Identificar e selecionar o problema |
+| Entrevista com professora de uma escola para entender e tirar dúvidas sobre o problema abordado |
+| Com base na entrevista, definir ferramentas que solucione o problema proposto |
+| Dicussão e confirmação das ferramentas que utilizaremos |
+| Ferramentas selecionadas até o momento: Kahoot, ChatGPT, Mentimeter, Duolingo |
+| Estudo das ferramentas para conhecer para ensinar aos professores |
+| Desenvolvimento de conteúdo e preparação de material de suporte para os cursos |
+| Execução do projeto, ministrando o curso para os professores |
+| Avaliação da execução do projeto para ajustes |
 
 
+# Entrevista
 
-# Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
+## Reunião realizada no dia 10/09/2023:
 
-## Sobre a reunião realizada no dia 10/09/2023: 
-Entrevistas: Entrevistamos a professora Rosângela de Souza da Escola Municipal José Raphael dos Santos Netto para obter informações sobre problemas em que eles enfrentam, e ideias de soluções usando a tecnologia a favor das escolas.
+Sobre a entrevista: Entrevistamos a professora Rosângela de Souza da Escola Municipal José Raphael dos Santos Netto para obter informações sobre problemas em que eles enfrentam, e ideias de soluções usando a tecnologia a favor das escolas.
 
-Resultados: Com base em nossa pesquisa na reunião e com base na entrevistada, identificamos a necessidade de fornecer treinamento aos educadores para melhorar sua capacidade de usar ferramentas educacionais digitais, e ferramentas que possam ajudar aos professores e alunos a educação.
-
-Conclusões: Concluímos que o uso eficaz de ferramentas como Kahoot, ChatGPT, Mentimeter e Duolingo pode melhorar significativamente a experiência de ensino e aprendizado, desde que os educadores recebam o treinamento adequado (ferramentas propostas ainda em estudos e possíveis adições de novas ferramentas.
+Conclusão: Com base em nossa pesquisa na reunião e com base na entrevistada, identificamos a necessidade de fornecer treinamento aos educadores para melhorar sua capacidade de usar ferramentas educacionais digitais, e ferramentas que possam ajudar aos professores e alunos a educação. Concluímos que o uso eficaz de ferramentas como Kahoot, ChatGPT, Mentimeter e Duolingo pode melhorar significativamente a experiência de ensino e aprendizado, desde que os educadores recebam o treinamento adequado.
 
 
 
