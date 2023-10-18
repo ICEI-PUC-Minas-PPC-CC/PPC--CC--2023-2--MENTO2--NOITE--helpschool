@@ -1,42 +1,26 @@
 # Introdução
-"Desenvolvemos um aplicativo inovador que visa auxiliar no aprimoramento do ensino nas escolas. Este aplicativo tem como foco principal o planejamento de etapas educacionais, permitindo que educadores trabalhem juntos para criar cronogramas de acordo com as necessidades de cada etapa do processo de aprendizagem. Além disso, o aplicativo sugere atividades alinhadas com os descritores da Base Nacional Comum Curricular (BNCC), garantindo uma abordagem pedagógica mais alinhada com as diretrizes educacionais. Com isso, pretendemos proporcionar um ensino mais prático, organizado e eficaz, contribuindo para um ambiente escolar mais produtivo e voltado para o desenvolvimento dos estudantes."
 
-## Problema
-Falta de Planejamento Eficiente: Muitas vezes, a ausência de um planejamento de etapas educacionais detalhado pode levar a dificuldades na execução das atividades de ensino, resultando em atrasos e confusões no processo educacional.
+Este projeto tem como foco principal a capacitação de professores do ensino fundamental, preparando-os com o conhecimento e as habilidades necessárias para utilizar aplicativos e ferramentas digitais de maneira eficaz. O objetivo é não apenas dinamizar suas aulas e torná-las mais atraentes para os alunos, mas também facilitar o processo de ensino para o professor. Através deste projeto, buscamos transformar o ambiente de aprendizado em um espaço mais interativo e envolvente.
 
-Desalinhamento com a BNCC: A não conformidade com os descritores da Base Nacional Comum Curricular (BNCC) pode resultar em lacunas no ensino, deixando de abordar competências e habilidades cruciais que os alunos precisam desenvolver.
+Ao longo deste projeto, forneceremos treinamento detalhado sobre as ferramentas, garantindo que os professores se sintam confiantes e preparados para utilizá-las em suas salas de aula.
 
-Dificuldade na Identificação do Nível de Leitura: É desafiador avaliar com precisão o nível de leitura de cada aluno, o que pode levar a sugestões inadequadas de atividades, tornando o ensino menos eficaz e individualizado.
+# Problemas
 
-Necessidade de Variedade de Atividades: A falta de diversidade nas atividades de ensino pode levar a uma experiência monótona para os alunos, comprometendo o engajamento e a motivação.
+A implementação de tecnologia na sala de aula, embora promissora, não está isenta de desafios. Aqui estão alguns dos problemas que identificamos:
 
-Administração Escolar Mais Complexa: A ausência de uma ferramenta que facilite o planejamento e a sugestão de atividades pode sobrecarregar os educadores e a administração escolar, resultando em um ambiente de ensino menos eficiente.
+- **Falta de familiaridade com a tecnologia:** Muitos professores podem não estar familiarizados com as últimas ferramentas e aplicativos tecnológicos disponíveis para a educação. Isso pode criar uma barreira para a adoção dessas ferramentas em suas salas de aula.
 
-Falta de Acompanhamento Personalizado: Sem um sistema que adapte as atividades com base no nível de leitura de cada aluno, pode haver falta de personalização no ensino, não atendendo às necessidades individuais.
+- **Treinamento inadequado:** Mesmo quando os professores estão dispostos a adotar novas tecnologias, muitas vezes falta o treinamento adequado para usar efetivamente essas ferramentas.
 
-Desafios no Desenvolvimento de Habilidades: A não identificação e abordagem adequada das habilidades em desenvolvimento dos alunos pode dificultar a formação holística dos estudantes, prejudicando seu crescimento educacional e pessoal.
+# Objetivo Geral
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O objetivo geral deste projeto é capacitar professores do ensino fundamental no uso eficaz de ferramentas e aplicativos tecnológicos para melhorar a qualidade do ensino e aumentar o engajamento dos alunos. Pretendemos alcançar isso fornecendo treinamento detalhado sobre uma variedade de ferramentas digitais.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+## Objetivos Específicos
 
-## Objetivos
-- Aprimoramento do Ensino;
-- Facilitação do Planejamento;
-- Personalização do Ensino;
-- Promoção da Engenharia;
-- Apoio à Administração Escolar;
-- Monitoramento do Progresso.
-  
-O objetivo principal deste projeto é desenvolver um aplicativo que auxilie educadores a avaliar o nível de leitura de crianças e, com base nos resultados, fornecer sugestões personalizadas de atividades de leitura alinhadas à BNCC.
-- Auxiliar educadores;
-- Fornecer sugestões personalizadas.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- **Familiarizar os professores com a tecnologia:** Nosso primeiro objetivo específico é familiarizar os professores com ferramentas e aplicativos tecnológicos que podem ser usados para melhorar suas aulas. Isso incluirá uma introdução sobre a ferramenta, uma visão geral de suas funcionalidades e benefícios, e instruções passo a passo sobre como usá-las.
+
+- **Fornecer treinamento prático:** Além de familiarizar os professores com as ferramentas, também pretendemos fornecer treinamento prático para garantir que eles se sintam confiantes e preparados para implementar essas ferramentas em suas salas de aula.
 
 ## Justificativa
 
