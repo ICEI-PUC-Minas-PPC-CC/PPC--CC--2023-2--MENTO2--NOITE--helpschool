@@ -1,97 +1,27 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
-
 ## Personas
 
+| Número da Persona | Número 1 |
+| :---------------: | -------- |
+| Nome | Maria do Carmo Ribeiro |
+| Foto | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/Professora%20Maria.png" width="200" height="200"/> |
+| Idade | 45 anos |
+| Naturaliade | São Paulo - SP |
+| Ocupação | Professora de ensino fundamental em uma escola pública. |
+| Atribuições | Ensinar várias matérias para alunos do ensino fundamental, preparar planos de aula, avaliar o progresso do aluno. |
+| Motivações | Maria sempre teve uma paixão profunda pela aprendizagem e acredita no poder da educação para mudar vidas. Ela se tornou professora para compartilhar essa paixão com os alunos e inspirá-los a amar a aprendizagem tanto quanto ela. Ela vê cada dia na sala de aula como uma oportunidade para fazer a diferença na vida de seus alunos e ajudá-los a alcançar seu potencial máximo. |
+| Frustrações | Enfrenta desafios para manter o interesse dos alunos e sente a necessidade de mais recursos didáticos para tornar as aulas mais interativas e envolventes para aumentar o engajamento e facilitar o aprendizado. |
+| História/Hobbies | Maria adora ler e passar tempo ao ar livre. Ela se tornou professora por causa de sua paixão por ajudar os outros a aprender. |
 
-|**Márcia dos Santos**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/transferir.jpeg" width="200" height="200"/>|**Idade:** 47 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora P1.       |**Atribuições:** Alfabetizar crianças de 6 à 8 anos, utilizando métodos criativos e didáticos. 
-|**Motivações:** Deseja ter um maior controle do desempenho dos seus alunos, para que ela julgue se necessário mudar as estratégias de aprendizado e o aluno possa aproveitar melhor as aulas.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de dar aulas, quando chega em casa tem de desempenhar os papeis de mãe, terminar seu TCC em pedagogia e ainda ter tempo de cuidar da casa. O seu filho mais novo de 16 anos sofre com problemas de ansiedade, portanto necessita de tratamento contínuo e atenção redobrada, apesar do mesmo ajudar nas tarefas de casa.   |**Hobbies, história:** Busca conciliar melhor o seu tempo sem que sua vida pessoal e profissional seja afetada, através da faculdade, Márcia procura melhorar a sua renda para proporcionar uma vida melhor para sua família. Com tantas responsabilidades sobra pouco tempo para hobbies como ler, se exercitar, assistir séries ou até mesmo sair para ir ao shopping. Durante os finais de semana ela regula seu tempo para dar atenção ao seu filho, corrigir as atividades de seus alunos (sempre analisando os padrões de leitura e desmpenho nas tarefas simples dos mesmos), colocar em dia trabalhos da faculdade e obviamente descansar.
-
-|**Carlos Henrique Junqueira**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/2b0be210-d6e3-4c15-bf9d-ff62a0249ea5.jpg" width="200" height="200"/>|**Idade:** 53 anos. **Naturalidade:** Botelhos - Minas Gerais. **Ocupação:**  Licenciatura em Pedagogia e Mestrado em Administração Educacional..       |**Atribuições:** Carlos está empenhado em envolver pais, responsáveis e a comunidade em geral no processo educativo. Ela acredita que a educação é uma responsabilidade compartilhada.
-|**Motivações:** **Sucesso Acadêmico dos Alunos:** Carlos é profundamente motivado pelo sucesso acadêmico e pessoal dos alunos. Ele acredita que cada aluno tem um potencial único a ser desenvolvido. **Melhoria Contínua:** Ele busca constantemente maneiras de melhorar o desempenho da escola, seja por meio de novas metodologias de ensino, treinamento de professores ou atualização da infraestrutura.  |**Frustações:** **Falta de Recursos:** Uma das maiores frustrações de Carlos é a falta de recursos financeiros para a escola. Isso limita a capacidade de oferecer programas e recursos adicionais para os alunos. **Burocracia:** Ele frequentemente se vê preso em processos burocráticos, o que a impede de tomar decisões rápidas e eficazes para a escola. **Resistência à Mudança:** Carlos enfrenta resistência por parte de alguns membros da equipe e pais quando tenta implementar mudanças para melhorar o ensino e o ambiente escolar.  |**Hobbies:** **Leitura:** Carlos é ávido leitor e sempre tem um livro em sua mesa. Ele gosta especialmente de literatura relacionada à educação e desenvolvimento pessoal. **Jardinagem:** Para relaxar, Carlos cultiva um pequeno jardim em sua casa. Ele acha que cuidar das plantas a ajuda a aliviar o estresse. **Voluntariado:** Fora do ambiente escolar, Carlos é ativo como voluntário em uma ONG local que promove a educação em comunidades carentes.|**Histórias:** Uma de suas histórias mais marcantes foi quando organizou um projeto de leitura em parceria com a biblioteca local. Isso incentivou alunos a lerem mais e melhorarem suas habilidades de leitura, resultando em um aumento significativo no desempenho acadêmico. Outra história notável foi quando enfrentou uma forte resistência para implementar um programa de inclusão para alunos com necessidades especiais. Depois de muita perseverança, o programa se tornou um sucesso, beneficiando não apenas os alunos com necessidades especiais, mas também criando um ambiente mais inclusivo para toda a escola. Carlos é um coordenador dedicado e apaixonado pela educação, sempre buscando maneiras de tornar a escola um lugar melhor para aprender e crescer. Ele é respeitado por sua equipe, pelos alunos e pela comunidade.
-
-
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
-
-## Histórias de Usuários
-
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
-
-Exemplo:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
-## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-### Artefatos para levantamento de dados
-
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
+| Número da Persona | Número 2 |
+| :---------------: | -------- |
+| Nome | Carlos Henrique Junqueira |
+| Foto | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/Professor%20Carlos.png" width="200" height="200"/> |
+| Idade | 53 anos |
+| Naturaliade | Poços de Caldas - MG |
+| Ocupação | Professor de matemática do ensino fundamental em uma escola pública. |
+| Atribuições | Ensinar matemática para alunos do ensino fundamental, preparar planos de aula, avaliar o progresso do aluno. |
+| Motivações | Carlos acredita no poder da tecnologia para tornar o aprendizado da matemática mais acessível e divertido para os alunos. Ele está sempre em busca de novas ferramentas e recursos que possam ajudá-lo a ilustrar conceitos matemáticos complexos de maneiras que seus alunos possam entender facilmente. |
+| Frustrações | Carlos as vezes se sente frustrado com a resistência dos alunos à matemática. Ele também se preocupa com o fato de que nem todos os seus alunos têm acesso igual à tecnologia fora da sala de aula, o que pode limitar sua capacidade de atribuir trabalhos de casa baseados em tecnologia ou usar certas ferramentas em suas aulas. |
+| História/Hobbies | Carlos adora resolver quebra-cabeças e jogar jogos de estratégia. Ele se tornou professor por causa de seu amor pela matemática e desejo de ajudar os alunos a superar seus medos e ansiedades em relação à matéria. Ele acredita que todos os alunos podem aprender matemática com o apoio e os recursos certos. |
