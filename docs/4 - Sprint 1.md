@@ -1,7 +1,14 @@
 # Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+## Slides
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+Segue os slides referentes ao Kahoot e Chat GPT, que usaremos nas apresentações.
 
-[texto do link] ([docs/jwefio.pdf](https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/jwefio.pdf)https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/jwefio.pdf)
+- Observação: Após uma reunião entre os membros do grupo, foi decidido a exclusão do "Trello", de nosso projeto, uma vez que observamos que o mesmo não teria muito a contribuir com o objetivo do nosso trabalho.
+
+[Slide Chat GPT] (https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/slides/Slide%20Chat%20GPT.pdf)
+
+
+[Slide Kahoot] (https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/slides/Slide%20Kahoot.pdf)
+
+- Além da criação dos slides, para realizarmos ensino mais didático e dinâmico, optamos pela criação de um kahoot exemplo, possibilitando uma maior interação e aprendizagem de todos.
