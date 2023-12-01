@@ -20,6 +20,7 @@ Os professores demonstraram interesse e participação ativa durante a apresenta
 ## Conclusão
 A apresentação foi bem-sucedida e acredita-se que os professores agora estão mais preparados para utilizar o Chat GPT e o Kahoot em suas aulas. Para o grupo, a apresentação do trabalho superou as expectativas. Inicialmente, esperava-se uma coisa, mas a experiência foi surpreendentemente agradável e interessante, o que contribuiu para a percepção positiva do evento.
 
+
 | Imagens |
 | :-----: |
 | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/HelpSchool%20(4).jpg" width="1000" height="600"/> |
@@ -27,3 +28,10 @@ A apresentação foi bem-sucedida e acredita-se que os professores agora estão 
 | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/HelpSchool%20(1).jpg" width="1000" height="600"/> |
 | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/HelpSchool%20(2).jpg" width="1000" height="600"/> |
 | <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/blob/main/docs/img/HelpSchool%20(3).jpg" width="1000" height="600"/> |
+
+| Vídeos |
+| :-----: |
+
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/assets/143663023/311e97b9-d9a7-4ca6-abeb-6edecf2c0d56
+
