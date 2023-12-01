@@ -32,6 +32,15 @@ A apresentação foi bem-sucedida e acredita-se que os professores agora estão 
 | Vídeos |
 | :-----: |
 
-
 https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/assets/143663023/311e97b9-d9a7-4ca6-abeb-6edecf2c0d56
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/assets/143462079/b66afd1b-c4d6-4c11-8280-6cf6c268c2b1
+
+https://github.com/ICEI-PUC-Minas-PPC-CC/PPC-CC-2023-2--MENTO2--NOITE--HelpSchool/assets/143462079/4f2377f9-c2a2-4e52-85c2-86cffc10323a
+
+
+
+
+
+
 
